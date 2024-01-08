@@ -135,13 +135,13 @@ text-align: left;
     padding-left: 155px;
     padding-right: 155px;
     max-width: 1140px;
+    Height: 120px;
     background-color: #FFF8F3;
     align-items: center;
     margin: 130px 230px;
     
-    
-
 }
+
 
 .heading2{
     text-align: center;
@@ -153,8 +153,22 @@ text-align: left;
 .about-inf-description{
     display: flex;
     justify-content: space-around;
+    padding-top: 30px;
     
 }
 
+.what-i-do-discription{
+ color: #757575;
+ font-size: 18px;
+ font-weight: 400;
+ line-height: 30px;
+ word-wrap: break-word;
+ text-align: center;
+ width: 909px;
+ height: 90px;
+ top: 1725px;
+ margin-left: auto;
+ margin-right: auto;
+}
 
 
