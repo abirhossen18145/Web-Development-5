@@ -139,6 +139,7 @@ text-align: left;
     background-color: #FFF8F3;
     align-items: center;
     margin: 130px 230px;
+    margin-top: 130px;
     
 }
 
@@ -169,6 +170,7 @@ text-align: left;
  top: 1725px;
  margin-left: auto;
  margin-right: auto;
+ margin-bottom: 30px;
 }
 
 .skilled-container{
