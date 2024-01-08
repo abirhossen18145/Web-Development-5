@@ -171,4 +171,15 @@ text-align: left;
  margin-right: auto;
 }
 
+.skilled-container{
+    display: flex;
+    margin-left: 230px;
+    margin-right: 230px;
+    background-color: #FFF;
+    
+}
+
+.skilled{
+   padding: 30px;
+}
 
