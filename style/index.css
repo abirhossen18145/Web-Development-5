@@ -1,7 +1,22 @@
+.header{
+    background-color:#FFF8F3;
+    background-image:url(../portfolio-resources/images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right 0px;
+}
+span{
+    margin-bottom: 0%;
+
+}
+
 nav li{
     list-style: none;
     margin-right: 51px;
     
+}
+
+nav h2{
+    margin-left: 226px;
 }
 nav ul{
     display: flex;
@@ -26,6 +41,7 @@ nav button{
     border-radius: 5px;
     color: azure;
     text padding: 2px;
+    
 }
 .s1{
     color: #FD6E0A;
@@ -35,16 +51,79 @@ nav button{
     color: #181818;
     font-family: Open Sans;
     font-size: 45px;
-    font-weight: 800;
-    line-height: 61px;
     letter-spacing: 0em;
     text-align: left;
 
     font-family: Manrope;
     font-size: 45px;
     font-weight: 800;
-    line-height: 61px;
+    
     letter-spacing: 0em;
     text-align: left;
     font-family: 'Open Sans', sans-serif;
+}
+.banner{
+     margin-left: 230px;
+     display: flex;
+}
+.caption{
+    font-family: Open Sans;
+    margin: bottom 0px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.title{
+    font-family: Open Sans;
+    font-size: 40px;
+    margin-top: 0px;
+
+letter-spacing: 0em;
+text-align: left;
+}
+.p1{
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight:300;
+    line-height:30px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.button{
+    width: 200px;
+    height: 64px;
+    top: 589px;
+    left: 230px;
+    border-radius:5px;
+    background-color: #FD6E0A;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFF8F3;
+    border-color: #FD6E0A;
+}
+.button1{
+    width: 160px;
+    height: 64px;
+    top: 589px;
+    left: 460px;
+    border-radius: 5px;
+    border: 2px solid #FD6E0A;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-left: 30px;
+    
+}
+
+.banner  .pic{
+    Width: 300px;
+    align-items: center;
+    
 }
