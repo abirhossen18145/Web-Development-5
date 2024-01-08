@@ -127,3 +127,34 @@ text-align: left;
     align-items: center;
     
 }
+
+.main{
+    text-align: center;
+    padding-top: 209px;
+    padding-bottom: 221px;
+    padding-left: 155px;
+    padding-right: 155px;
+    max-width: 1140px;
+    background-color: #FFF8F3;
+    align-items: center;
+    margin: 130px 230px;
+    
+    
+
+}
+
+.heading2{
+    text-align: center;
+    color: #181818;
+    Size:35px;
+    padding top: 131px;
+}
+
+.about-inf-description{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+
